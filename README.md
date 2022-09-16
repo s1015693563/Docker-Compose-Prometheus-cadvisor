@@ -1,2 +1,3 @@
 # cadvisor
-prometheus cadvisor
+项目/目录下为docker-compose部署的prometheus cadvisor镜像
+cadvisor目录为prometheus的cadvisior镜像
